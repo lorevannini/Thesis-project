@@ -1,0 +1,5 @@
+###These are the script used to create the new hdf5 tables
+
+##to run these scrit the output file from SEVN are needed (tables are already computed and present in other directory of the reposotory)
+
+##You need to run firsly the SNII and AGB script and then SSP will give back the hdf5 tables.
