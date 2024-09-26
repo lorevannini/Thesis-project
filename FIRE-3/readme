@@ -1,1 +1,4 @@
 #This script are used to reproduce the stellar evolution in FIRE-3 Hopkins et al. 2022
+#Tablt_to_csv is a python script used to convert  table of values on a pdf file into a csv file readble by the script
+
+#To make the code work you need to run tbal first and then the other twos
