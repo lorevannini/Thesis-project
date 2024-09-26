@@ -1,0 +1,4 @@
+##Script used to recreate and vizualize the stellar evolution model in SMUGGLE Maricannci et al. 2019
+
+##Is possible to change the model displayed by changing the hdf5 file when read.
+##Is also possible to change the metallicity by putting it at the start of the script
